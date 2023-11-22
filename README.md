@@ -1,5 +1,5 @@
 # cyilinder-scraper
-Simple python scraper used to scrape RANSAC cylinder data from Cloud Compare
+Simple python script used to scrape RANSAC cylinder data from Cloud Compare
 
 Scrapes data from DB Tree.
 
